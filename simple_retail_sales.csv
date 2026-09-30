@@ -1,0 +1,101 @@
+order_id,order_date,product,category,quantity,unit_price,payment_status,revenue
+1,2026-03-04,USB Keyboard,Electronics,1,24.99,Paid,24.99
+2,2026-06-01,Bluetooth Speaker,Electronics,1,37.99,Pending,37.99
+3,2026-02-25,Wireless Mouse,Electronics,1,15.19,Paid,15.19
+4,2026-05-24,Notebook,Stationery,5,4.74,Paid,23.7
+5,2026-04-25,Notebook,Stationery,4,4.99,Cancelled,19.96
+6,2026-06-28,Jeans,Clothing,1,34.99,Pending,34.99
+7,2026-02-25,Hoodie,Clothing,3,29.99,Paid,89.97
+8,2026-01-25,USB Keyboard,Electronics,1,26.24,Paid,26.24
+9,2026-01-12,Hoodie,Clothing,5,29.99,Pending,149.95
+10,2026-01-21,Notebook,Stationery,1,5.24,Cancelled,5.24
+11,2026-05-28,Jeans,Clothing,5,34.99,Paid,174.95
+12,2026-03-16,USB Keyboard,Electronics,1,24.99,Paid,24.99
+13,2026-03-13,Cotton T-Shirt,Clothing,1,13.12,Pending,13.12
+14,2026-04-01,Hoodie,Clothing,2,29.99,Paid,59.98
+15,2026-05-17,Jeans,Clothing,1,34.99,Paid,34.99
+16,2026-03-11,Bluetooth Speaker,Electronics,4,41.99,Cancelled,167.96
+17,2026-02-28,Cotton T-Shirt,Clothing,3,11.88,Paid,35.64
+18,2026-01-17,Hoodie,Clothing,4,29.99,Paid,119.96
+19,2026-06-17,Backpack,Accessories,3,27.99,Pending,83.97
+20,2026-03-09,Water Bottle,Home,4,9.99,Paid,39.96
+21,2026-05-30,Cotton T-Shirt,Clothing,5,12.5,Pending,62.5
+22,2026-02-26,Backpack,Accessories,4,27.99,Paid,111.96
+23,2026-01-13,Notebook,Stationery,4,4.74,Paid,18.96
+24,2026-06-02,Bluetooth Speaker,Electronics,2,41.99,Paid,83.98
+25,2026-05-16,Water Bottle,Home,4,10.49,Paid,41.96
+26,2026-06-24,Notebook,Stationery,1,4.74,Cancelled,4.74
+27,2026-03-17,Jeans,Clothing,3,33.24,Pending,99.72
+28,2026-03-09,Bluetooth Speaker,Electronics,4,37.99,Cancelled,151.96
+29,2026-06-10,Bluetooth Speaker,Electronics,5,37.99,Paid,189.95
+30,2026-02-09,Notebook,Stationery,5,4.99,Paid,24.95
+31,2026-06-03,Bluetooth Speaker,Electronics,5,37.99,Paid,189.95
+32,2026-04-03,Desk Lamp,Home,1,21.38,Paid,21.38
+33,2026-05-26,Cotton T-Shirt,Clothing,1,12.5,Paid,12.5
+34,2026-05-17,USB Keyboard,Electronics,4,23.74,Paid,94.96
+35,2026-03-09,Bluetooth Speaker,Electronics,4,39.99,Cancelled,159.96
+36,2026-05-19,Backpack,Accessories,4,27.99,Paid,111.96
+37,2026-04-23,Jeans,Clothing,4,34.99,Cancelled,139.96
+38,2026-02-27,Desk Lamp,Home,1,22.5,Paid,22.5
+39,2026-05-31,Hoodie,Clothing,1,29.99,Paid,29.99
+40,2026-02-28,Wireless Mouse,Electronics,1,15.19,Paid,15.19
+41,2026-05-12,Wireless Mouse,Electronics,3,15.19,Paid,45.57
+42,2026-05-19,Jeans,Clothing,4,34.99,Paid,139.96
+43,2026-03-04,Backpack,Accessories,5,29.39,Pending,146.95
+44,2026-01-25,Water Bottle,Home,2,9.49,Pending,18.98
+45,2026-04-30,Hoodie,Clothing,4,31.49,Paid,125.96
+46,2026-03-28,USB Keyboard,Electronics,1,26.24,Paid,26.24
+47,2026-05-18,Cotton T-Shirt,Clothing,2,12.5,Pending,25.0
+48,2026-03-13,Bluetooth Speaker,Electronics,4,39.99,Pending,159.96
+49,2026-05-21,Cotton T-Shirt,Clothing,1,13.12,Paid,13.12
+50,2026-01-24,Wireless Mouse,Electronics,5,15.19,Paid,75.95
+51,2026-05-04,Bluetooth Speaker,Electronics,4,41.99,Paid,167.96
+52,2026-04-08,Water Bottle,Home,1,9.99,Paid,9.99
+53,2026-03-15,Water Bottle,Home,3,10.49,Pending,31.47
+54,2026-02-18,Notebook,Stationery,4,4.99,Paid,19.96
+55,2026-03-22,Cotton T-Shirt,Clothing,1,11.88,Paid,11.88
+56,2026-05-09,Wireless Mouse,Electronics,5,16.79,Cancelled,83.95
+57,2026-02-17,Bluetooth Speaker,Electronics,1,37.99,Paid,37.99
+58,2026-04-14,Backpack,Accessories,1,27.99,Paid,27.99
+59,2026-06-08,Backpack,Accessories,2,26.59,Paid,53.18
+60,2026-03-08,Water Bottle,Home,5,9.99,Paid,49.95
+61,2026-04-12,Hoodie,Clothing,2,29.99,Paid,59.98
+62,2026-01-19,Jeans,Clothing,4,34.99,Paid,139.96
+63,2026-01-19,Desk Lamp,Home,5,21.38,Cancelled,106.9
+64,2026-02-03,Cotton T-Shirt,Clothing,5,12.5,Paid,62.5
+65,2026-03-14,USB Keyboard,Electronics,2,24.99,Paid,49.98
+66,2026-06-06,Desk Lamp,Home,5,22.5,Cancelled,112.5
+67,2026-06-19,Wireless Mouse,Electronics,5,15.99,Paid,79.95
+68,2026-01-28,Bluetooth Speaker,Electronics,3,37.99,Cancelled,113.97
+69,2026-06-04,Bluetooth Speaker,Electronics,3,39.99,Paid,119.97
+70,2026-05-10,Hoodie,Clothing,2,29.99,Pending,59.98
+71,2026-06-12,Jeans,Clothing,1,33.24,Pending,33.24
+72,2026-03-27,Jeans,Clothing,1,33.24,Paid,33.24
+73,2026-05-22,Jeans,Clothing,2,36.74,Pending,73.48
+74,2026-01-20,Notebook,Stationery,1,4.74,Paid,4.74
+75,2026-05-30,Notebook,Stationery,1,4.99,Cancelled,4.99
+76,2026-01-11,Bluetooth Speaker,Electronics,4,39.99,Paid,159.96
+77,2026-02-23,Hoodie,Clothing,1,29.99,Paid,29.99
+78,2026-06-08,USB Keyboard,Electronics,3,26.24,Paid,78.72
+79,2026-04-16,Cotton T-Shirt,Clothing,2,12.5,Paid,25.0
+80,2026-06-21,Bluetooth Speaker,Electronics,3,41.99,Paid,125.97
+81,2026-04-08,Jeans,Clothing,2,33.24,Paid,66.48
+82,2026-04-28,Desk Lamp,Home,2,22.5,Paid,45.0
+83,2026-01-07,Jeans,Clothing,2,34.99,Paid,69.98
+84,2026-01-18,Water Bottle,Home,3,9.99,Paid,29.97
+85,2026-06-23,Hoodie,Clothing,5,31.49,Cancelled,157.45
+86,2026-03-08,Hoodie,Clothing,1,28.49,Paid,28.49
+87,2026-01-28,Backpack,Accessories,3,26.59,Cancelled,79.77
+88,2026-04-22,Water Bottle,Home,3,9.99,Cancelled,29.97
+89,2026-05-28,Notebook,Stationery,1,5.24,Paid,5.24
+90,2026-01-01,Jeans,Clothing,1,36.74,Cancelled,36.74
+91,2026-04-21,Notebook,Stationery,2,4.99,Paid,9.98
+92,2026-06-19,Hoodie,Clothing,5,29.99,Paid,149.95
+93,2026-06-20,Jeans,Clothing,5,34.99,Pending,174.95
+94,2026-05-22,Hoodie,Clothing,4,29.99,Paid,119.96
+95,2026-06-23,Cotton T-Shirt,Clothing,4,13.12,Paid,52.48
+96,2026-04-14,Backpack,Accessories,5,27.99,Cancelled,139.95
+97,2026-02-23,Wireless Mouse,Electronics,3,15.99,Pending,47.97
+98,2026-04-30,Backpack,Accessories,5,27.99,Pending,139.95
+99,2026-02-13,Desk Lamp,Home,2,23.62,Paid,47.24
+100,2026-01-24,Jeans,Clothing,5,34.99,Paid,174.95
